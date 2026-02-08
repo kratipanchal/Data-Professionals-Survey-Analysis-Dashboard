@@ -33,3 +33,6 @@ Data Scientists earn the highest average salary
 Python is the most preferred language
 
 Salary satisfaction is lower than job interest
+
+![Data professional survey breakdown](https://github.com/user-attachments/assets/2f9a9fdd-a953-46e0-b90b-668208bcfb31)
+
